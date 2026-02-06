@@ -6,13 +6,19 @@
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+%26+Web+Developer;Building+AI-Powered+Solutions)](https://git.io/typing-svg)
 
-<!-- Visitor Counter -->
+<!-- Visitor Counter & Followers -->
 <img src="https://komarev.com/ghpvc/?username=wlsdljuam&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/wlsdljuam?style=for-the-badge&color=blue" alt="Followers" />
 
+<!-- Social Links -->
+<br/><br/>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wlsdljuam)
+
 </div>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## About Me
 
@@ -21,60 +27,76 @@ const developer = {
     name: "wlsdljuam",
     role: "AI & Web Developer",
     focus: ["AI Visibility", "Web Analytics", "SaaS Development"],
-    currentlyLearning: "AI/ML Integration"
+    currentlyLearning: "AI/ML Integration",
+    funFact: "I turn coffee into code ☕"
 };
 ```
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## Currently Working On
+
+<div align="center">
+
+| Project | Status | Description |
+|:-------:|:------:|:-----------:|
+| AIRead | 🔨 In Progress | AI 검색 가시성 분석 SaaS 플랫폼 개발 |
+| AEO Trends | 🚀 Active | AI 검색 최적화 트렌드 분석 서비스 |
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## Tech Stack
 
 <div align="center">
 
 ### Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=php,js,ts,python&theme=dark" />
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,vite&theme=dark" />
 
 ### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,firebase,gcp&theme=dark" />
 
-### AI & Analytics
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
 </div>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## Projects
+## Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech | Link |
-|:-------:|:-----------:|:----:|:----:|
-| **AI Dashboard** | GA4 기반 AI 검색 가시성 분석 | PHP, MySQL, GA4 | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/wlsdljuam/ai-dashboard) |
-| **AIRead** | AI 검색 가시성 SaaS 플랫폼 | PHP, MySQL, OpenAI | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/wlsdljuam/airead) |
-| **AEO Trends** | AI 검색 최적화 트렌드 분석 | Next.js, React | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/wlsdljuam/aeotrends) |
-| **CleanPixel** | AI 이미지 처리 앱 | React, Firebase | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/wlsdljuam/cleanpixel) |
+<a href="https://github.com/wlsdljuam/ai-dashboard">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wlsdljuam&repo=ai-dashboard&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/wlsdljuam/airead">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wlsdljuam&repo=airead&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/wlsdljuam/aeotrends">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wlsdljuam&repo=aeotrends&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/wlsdljuam/cleanpixel">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wlsdljuam&repo=cleanpixel&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## GitHub Stats
 
 <div align="center">
 
-<!-- Stats Cards - Using alternative instances -->
+<!-- Stats Cards -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wlsdljuam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wlsdljuam&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
@@ -97,7 +119,8 @@ const developer = {
 
 </div>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## Trophy
 
@@ -111,7 +134,8 @@ const developer = {
 
 </div>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## Activity Graph
 
@@ -125,7 +149,8 @@ const developer = {
 
 </div>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## Snake Animation
 
@@ -139,9 +164,25 @@ const developer = {
 
 </div>
 
----
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## Random Dev Quote
 
 <div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<div align="center">
+
+### Thanks for visiting!
+
+![Waving](https://raw.githubusercontent.com/MartinHeinworken/MartinHeinworken/master/wave.gif)
 
 <!-- Footer Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
