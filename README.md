@@ -74,18 +74,12 @@ const developer = {
 
 <div align="center">
 
-<a href="https://github.com/wlsdljuam/ai-dashboard">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wlsdljuam&repo=ai-dashboard&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wlsdljuam/airead">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wlsdljuam&repo=airead&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wlsdljuam/aeotrends">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wlsdljuam&repo=aeotrends&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/wlsdljuam/cleanpixel">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=wlsdljuam&repo=cleanpixel&theme=tokyonight&hide_border=true" />
-</a>
+| Project | Description | Tech Stack |
+|:-------:|:-----------:|:----------:|
+| [**AI Dashboard**](https://github.com/wlsdljuam/ai-dashboard) | GA4 기반 AI 검색 가시성 분석 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| [**AIRead**](https://github.com/wlsdljuam/airead) | AI 검색 가시성 SaaS 플랫폼 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| [**AEO Trends**](https://github.com/wlsdljuam/aeotrends) | AI 검색 최적화 트렌드 분석 | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
+| [**CleanPixel**](https://github.com/wlsdljuam/cleanpixel) | AI 이미지 처리 앱 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
 </div>
 
