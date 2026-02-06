@@ -14,6 +14,9 @@
 <br/><br/>
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:wlsdljuam@nate.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wlsdljuam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://YOUR_BLOG_URL)
 
 </div>
 
@@ -28,9 +31,22 @@ const developer = {
     role: "AI & Web Developer",
     focus: ["AI Visibility", "Web Analytics", "SaaS Development"],
     currentlyLearning: "AI/ML Integration",
-    funFact: "I turn coffee into code ☕"
+    funFact: "I turn coffee into code"
 };
 ```
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## Hobbies & Interests
+
+<div align="center">
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| ![Coding](https://img.shields.io/badge/Coding-00599C?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![AI](https://img.shields.io/badge/AI_Research-412991?style=for-the-badge&logo=openai&logoColor=white) | ![Coffee](https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white) | ![Music](https://img.shields.io/badge/Music-1DB954?style=for-the-badge&logo=spotify&logoColor=white) |
+
+</div>
 
 <!-- Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -64,6 +80,18 @@ const developer = {
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## Certifications
+
+<div align="center">
+
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 </div>
 
@@ -116,6 +144,20 @@ const developer = {
 <!-- Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## Profile Summary Cards
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wlsdljuam&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wlsdljuam&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wlsdljuam&theme=tokyonight)
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## Trophy
 
 <div align="center">
@@ -146,6 +188,17 @@ const developer = {
 <!-- Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## 3D Contribution Graph
+
+<div align="center">
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## Snake Animation
 
 <div align="center">
@@ -161,11 +214,53 @@ const developer = {
 <!-- Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## Now Playing on Spotify
+
+<div align="center">
+
+[![Spotify](https://novatorem-wlsdljuam.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+
+<!-- 설정 방법: https://github.com/novatorem/novatorem 참고 -->
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## Weekly Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!-- WakaTime 설정 후 자동으로 업데이트됩니다 -->
+<!-- 설정 방법: https://github.com/anmol098/waka-readme-stats 참고 -->
+<!--END_SECTION:waka-->
+
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## Random Dev Quote
 
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## Support Me
+
+<div align="center">
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YOUR_USERNAME)
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME)
 
 </div>
 
