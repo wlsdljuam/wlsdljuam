@@ -104,9 +104,9 @@ const developer = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wlsdljuam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wlsdljuam&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15" />
-  <img src="https://github-profile-trophy.vercel.app/?username=wlsdljuam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-trophies.vercel.app/?username=wlsdljuam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-trophies.vercel.app/?username=wlsdljuam&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-trophies.vercel.app/?username=wlsdljuam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
 </picture>
 
 </div>
