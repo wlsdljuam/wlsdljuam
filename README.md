@@ -74,12 +74,26 @@ const developer = {
 
 <div align="center">
 
-<!-- Stats Cards -->
-<img src="https://github-readme-stats.vercel.app/api?username=wlsdljuam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wlsdljuam&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="49%" />
+<!-- Stats Cards - Using alternative instances -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wlsdljuam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=wlsdljuam&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=wlsdljuam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=wlsdljuam&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=wlsdljuam&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=wlsdljuam&theme=tokyonight&hide_border=true" width="49%" />
+</picture>
+
+<br/>
 
 <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlsdljuam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wlsdljuam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wlsdljuam&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wlsdljuam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+</picture>
 
 </div>
 
@@ -89,7 +103,11 @@ const developer = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wlsdljuam&theme=onestar&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=wlsdljuam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=wlsdljuam&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wlsdljuam&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+</picture>
 
 </div>
 
@@ -99,7 +117,11 @@ const developer = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=wlsdljuam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wlsdljuam&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=wlsdljuam&theme=minimal&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wlsdljuam&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</picture>
 
 </div>
 
@@ -109,7 +131,11 @@ const developer = {
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/wlsdljuam/wlsdljuam/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlsdljuam/wlsdljuam/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wlsdljuam/wlsdljuam/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/wlsdljuam/wlsdljuam/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
 </div>
 
