@@ -227,6 +227,17 @@ const developer = {
 <!-- Wave Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## Weekly Coding Stats
+
+<div align="center">
+
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=tedk&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@tedk)
+
+</div>
+
+<!-- Wave Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## Random Dev Quote
 
 <div align="center">
