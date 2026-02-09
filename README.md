@@ -57,6 +57,7 @@ const developer = {
 |:-------:|:------:|:-----------:|
 | AIRead | 🔨 In Progress | AI 검색 가시성 분석 SaaS 플랫폼 개발 |
 | AEO Trends | 🚀 Active | AI 검색 최적화 트렌드 분석 서비스 |
+| Sitemap Generator | 🚀 Active | URL 기반 범용 사이트맵/RSS 생성기 |
 
 </div>
 
@@ -106,6 +107,7 @@ const developer = {
 | [**AIRead**](https://github.com/wlsdljuam/airead) | AI 검색 가시성 SaaS 플랫폼 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
 | [**AEO Trends**](https://github.com/wlsdljuam/aeotrends) | AI 검색 최적화 트렌드 분석 | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) |
 | [**CleanPixel**](https://github.com/wlsdljuam/cleanpixel) | AI 이미지 처리 앱 | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| [**Sitemap Generator**](https://github.com/wlsdljuam/sitemap-generator) | URL 기반 범용 사이트맵/RSS 생성기 | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![cURL](https://img.shields.io/badge/cURL-073551?style=flat-square&logo=curl&logoColor=white) |
 
 </div>
 
