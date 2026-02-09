@@ -218,25 +218,9 @@ const developer = {
 
 <div align="center">
 
-[![Spotify](https://novatorem-wlsdljuam.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
-
-<!-- 설정 방법: https://github.com/novatorem/novatorem 참고 -->
-
-</div>
-
-<!-- Wave Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-## Weekly Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!-- WakaTime 설정 후 자동으로 업데이트됩니다 -->
-<!-- 설정 방법: https://github.com/anmol098/waka-readme-stats 참고 -->
-<!--END_SECTION:waka-->
-
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=3175u6no4k23ziqqmietrsf77ewu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
+</a>
 
 </div>
 
